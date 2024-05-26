@@ -10,7 +10,7 @@ const layoutStyles = {
 }
 
 const navLinks = [
-  { href: '/homePage', label: 'Home' },
+  { href: '/', label: 'Home' },
   { href: '/portfolio', label: 'Portfolio' },
   { href: '/contact', label: 'Contact Me' },
 ]
